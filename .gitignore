@@ -1,0 +1,4 @@
+notable_django/settings.py
+db.sqlite3
+.idea/
+venv/
