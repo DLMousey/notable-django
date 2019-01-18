@@ -2,3 +2,5 @@ notable_django/settings.py
 db.sqlite3
 .idea/
 venv/
+api/__pycache__/
+notable_django/__pycache__/
